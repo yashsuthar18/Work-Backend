@@ -172,5 +172,4 @@ const logOutUser = asyncHandler(async (req, res) => {
 })
 
 
-
 export { registerUser, loginUser, logOutUser }
